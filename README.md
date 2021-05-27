@@ -1,9 +1,3 @@
-
-Title: Disney+ React Clone
-Description: A curated list of amazingly awesome open source sysadmin resources.
-Author: Zaid
- 
-  
 # Disney+ Front End clone made with React JS
 Hi! This a Disney+ front end clone that i´ve built using ReactJS.  
 __You can visit the website clicking [here!](https://disney-plus-clone-react.web.app/)__
